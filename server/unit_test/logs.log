@@ -1,0 +1,14 @@
+2016-12-21 19:02:48,314 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-21 19:02:48,333 - helpers.profile_post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\profile_post_helper.py ,in this func get_profile_post_object pop this log: unvalid user_id
+2016-12-21 19:08:39,971 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-21 19:08:39,976 - helpers.profile_post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\profile_post_helper.py ,in this func get_profile_post_object pop this log: unvalid user_id
+2016-12-26 10:34:23,670 - helpers.user_helper - ERROR - This is unvalid user_id
+2016-12-26 10:43:33,263 - helpers.user_helper - ERROR - This is unvalid user_id
+2016-12-26 10:45:32,316 - helpers.user_helper - ERROR - This is unvalid user_id
+2016-12-26 10:45:39,026 - helpers.user_helper - ERROR - This is unvalid user_id
+2016-12-26 10:45:54,774 - helpers.user_helper - ERROR - This is unvalid user_id
+2016-12-26 10:53:32,102 - helpers.user_helper - ERROR - This is unvalid user_id
+2016-12-26 11:06:21,708 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-26 11:06:21,714 - helpers.profile_post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\profile_post_helper.py ,in this func get_profile_post_object pop this log: unvalid user_id
+2016-12-26 11:07:21,936 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-26 11:07:21,942 - helpers.profile_post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\profile_post_helper.py ,in this func get_profile_post_object pop this log: unvalid user_id

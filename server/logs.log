@@ -1,0 +1,40 @@
+2016-12-21 12:47:22,887 - serverside - INFO - creating an instance of 
+2016-12-21 14:32:50,961 - serverside - INFO - creating an instance of 
+2016-12-21 14:32:50,961 - serverside - INFO - staring tesing
+2016-12-21 14:33:03,800 - serverside - INFO - creating an instance of 
+2016-12-21 14:33:03,801 - serverside - INFO - staring tesing
+2016-12-21 14:33:27,333 - serverside - INFO - creating an instance of 
+2016-12-21 14:33:27,334 - serverside - INFO - staring tesing
+ERROR:__main__:This is unvalid user_id
+ERROR:__main__:This is unvalid user_id
+2016-12-21 14:52:06,932 - __main__ - ERROR - This is unvalid user_id
+2016-12-21 14:56:12,506 - __main__ - ERROR - This is unvalid user_id
+2016-12-21 14:57:50,805 - __main__ - ERROR - This is unvalid user_id
+2016-12-21 14:58:22,140 - __main__ - ERROR - This is unvalid user_id
+2016-12-21 14:58:30,139 - __main__ - ERROR - This is unvalid user_id
+2016-12-21 15:14:33,006 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py in get_user unvalid user_id
+2016-12-21 15:15:28,062 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user pop this log: unvalid user_id
+2016-12-21 15:22:25,799 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func ["            self.logger.error('In This path: %s ,in this func %s pop this log: unvalid user_id' %(os.path.abspath(__file__), inspect.stack()[0][4]))\n"] pop this log: unvalid user_id
+2016-12-21 15:23:16,275 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user unvalid user_id
+2016-12-21 15:23:43,320 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func ["            self.logger.error('In This path: %s ,in this func %s , pop this log -unvalid user_id' %(os.path.abspath(__file__), inspect.stack()[0][4]))\n"] , pop this log -unvalid user_id
+2016-12-21 15:23:57,083 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user , pop this log -unvalid user_id
+2016-12-21 15:24:12,487 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user , pop this log ,unvalid user_id
+2016-12-21 15:24:34,701 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user pop this log, unvalid user_id
+2016-12-21 15:24:56,071 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user unvalid user_id
+2016-12-21 15:25:05,637 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user unvalid user_id
+2016-12-21 15:25:18,824 - __main__ - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\test_three.py ,inthis func get_user unvalid user_id
+2016-12-21 15:26:05,744 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py in this func get_user pop this unvalid user_id
+2016-12-21 15:26:40,934 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py in this func get_user  unvalid user_id
+2016-12-21 15:27:24,087 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py in this func get_user  unvalid user_id
+2016-12-21 15:28:10,128 - __main__ - ERROR - In This path %s in this func %s  unvalid user_id
+2016-12-21 15:28:46,745 - __main__ - ERROR - In This path %s in this func %s  unvalid user_id
+2016-12-21 15:29:02,205 - __main__ - ERROR - In This path %s ,in this func %s , unvalid user_id
+2016-12-21 15:29:15,965 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user , unvalid user_id
+2016-12-21 15:29:35,314 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user , unvalid user_id
+2016-12-21 15:29:46,706 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\test_three.py ,in this func get_user , unvalid user_id
+2016-12-26 10:57:13,180 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-26 10:57:18,215 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-26 10:58:03,496 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-26 10:58:59,938 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-26 11:01:43,812 - helpers.post_helper - ERROR - In This path: C:\Users\Adi\PycharmProjects\serverside\helpers\post_helper.py ,in this func get_post_deatil_list pop this log: unvalid user_id
+2016-12-28 15:37:16,380 - __main__ - ERROR - In This path C:\Users\Adi\PycharmProjects\serverside\server\test_three.py ,in this func get_user , unvalid user_id
